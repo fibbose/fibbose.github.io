@@ -57,8 +57,7 @@ textarea {
    ========================================================================== */
 
 body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
-}
+  font-family: 16px/26px 'Source Sans Pro', sans-serif;}
 
 .wrapper {
     width: 90%;
