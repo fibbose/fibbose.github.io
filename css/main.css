@@ -80,7 +80,7 @@ body {
 .header-container,
 .footer-container,
 .main aside {
-    background: #a80000;
+    background: #7d0000;
 }
 
 .title {
@@ -107,7 +107,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: ##000000;
+    background: #000000;
 }
 
 nav a:hover,
